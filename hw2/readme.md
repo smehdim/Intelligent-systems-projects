@@ -7,4 +7,4 @@ first i defined claculate entropy and then used it in next function wich will ta
 
 
 ## k neighbors and metric learning
-k means is a clustering algorithm to cluster non labeled data.one of ideas to make it work better is metric learning which will transform data given some specific criteria for each metric learning method. to choose proper k for k_means its usual to run algorithm with different k values and compare the performances.
+k neighbors algorithm is a supervised method to solve classification and regression problems.one of ideas to make it work better is metric learning which will transform data given some specific criteria for each metric learning method. to choose proper k for k neighbors it's usual to run algorithm with different k values and compare the performances.
