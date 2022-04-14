@@ -6,5 +6,5 @@ aim here for decision tree and random forrest notebooks is to train a model to p
 first i defined claculate entropy and then used it in next function wich will take one column and corresponding label and returns entropy on that column given label column.then i will use this function in node class to calculate entropy for different splits and will choose best of them. at last using multiple trees and training them with different random columns and rows our random forrest classifier is ready too. resaults and measures of models are available for different tree depths. due to unbalanced depency on different columns random forrest performance will not be much different than decision tree.
 
 
-## kmeans and metric learning
+## k neighbors and metric learning
 k means is a clustering algorithm to cluster non labeled data.one of ideas to make it work better is metric learning which will transform data given some specific criteria for each metric learning method. to choose proper k for k_means its usual to run algorithm with different k values and compare the performances.
